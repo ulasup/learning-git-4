@@ -1,0 +1,14 @@
+body {
+  margin: 10px 30px;
+}
+div {
+  color: grey;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+footer {
+  background-color: #dfe6e9;
+  margin: 0;
+  padding: 20px;
+  font-size: 10px;
+}
