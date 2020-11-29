@@ -1,0 +1,2 @@
+html-validate *.html
+autoprefixer-cli -o css/style.prefixed.css css/style.css
